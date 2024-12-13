@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int a;
+    int a=2150
     cout<<"enter any year";
     cin>>a;
     
