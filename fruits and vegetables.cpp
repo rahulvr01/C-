@@ -19,7 +19,7 @@ int main()
          default:cout<<"ii";
      }
 {
-    case 2:cout<<"enter the vegetable name 1. aalu 2.bhalu";
+    case 2:cout<<"enter the vegetable name 1. aalu 2.bhalu 3.tomato";
     cin>>op;
     switch(op){
         case 1:cout<<"aalu";
