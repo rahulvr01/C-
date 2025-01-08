@@ -7,7 +7,9 @@ int main()
  int op;
  cout<<"enter fruit and vegetable";
  cin>>op;
+ cout<<"enter any number";
  switch(op)
+
  {
      case 1:cout<<"enter the fruit name 1.Orange 2.Apple";
      cin>>op;
