@@ -7,6 +7,8 @@ int main()
             if(c>=r && c<=10-r){
                 cout<<"*";
             }
+            else if:
+                cout<<" ";
             else{
                 cout<<" ";
             }
