@@ -34,7 +34,7 @@ int main() {
             cout<<"not an address";
         }
         
-    }else if(a==3){
+    }else if(a==4){
         if(b==1){
             cout<<"reached3-1";
         }
