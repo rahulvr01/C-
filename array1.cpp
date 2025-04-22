@@ -9,5 +9,6 @@ int main() {
             max=arr[i+1];
         }
     }
+    
     cout<<max;
 }
