@@ -8,6 +8,7 @@ int main() {
         if(arr[i+1]>arr[i]){
             max=arr[i+1];
         }
+         q
     }
     cout<<max;
 }
